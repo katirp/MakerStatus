@@ -1,4 +1,6 @@
-A webpage for checking and updating the status of machines at the UCLA Olympic Makerspace.
+## About
+
+MakerStaus is a webpage for checking and updating the status of machines at the UCLA Olympic Makerspace.
 
 ## Available Scripts
 

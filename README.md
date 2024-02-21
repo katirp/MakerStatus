@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A webpage for checking and updating the status of machines at the UCLA Olympic Makerspace.
 
 ## Available Scripts
 

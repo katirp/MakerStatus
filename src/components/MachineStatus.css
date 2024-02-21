@@ -1,0 +1,33 @@
+.machine-status-container {
+    border-radius: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 50px;
+    text-align: center;
+    background-color: white;
+    max-width: 245px;
+    margin: 10px;
+  }
+  
+  .machine-type {
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  
+  .status-indicator {
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    border-radius: 12px;
+    padding: 5px 10px;
+    display: inline-block;
+  }
+  
+  .in-service {
+    background-color: #4CAF50; /* Green background for in-service */
+  }
+  
+  .out-of-service {
+    background-color: #f44336; /* Red background for out-of-service */
+  }
+  

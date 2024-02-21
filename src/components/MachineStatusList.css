@@ -1,0 +1,8 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Creates 3 columns of equal width */
+    gap: 10px; /* Adjust the space between the grid items */
+    padding: 175px; /* Optional padding around the grid */
+    align-content: center;
+  }
+  

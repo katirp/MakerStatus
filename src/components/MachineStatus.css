@@ -23,11 +23,16 @@
     display: inline-block;
   }
   
-  .in-service {
-    background-color: #4CAF50; /* Green background for in-service */
-  }
-  
-  .out-of-service {
-    background-color: #f44336; /* Red background for out-of-service */
-  }
-  
+.controls {
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.count-button {
+    background-color: #DCDCDC;
+    font-size: 30px;
+    width: 65px;
+    text-align: center; 
+}

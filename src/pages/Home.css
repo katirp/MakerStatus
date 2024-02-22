@@ -1,4 +1,33 @@
-.login-button {
-    justify-content: right;
+.title {
+    font-size: 50px;
+    padding-top: 75px;
+    text-align: center;
 }
-/* this doesn't work */
+
+.title-container {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+  }
+
+.login {
+    color:#000000;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 19px;
+}
+
+button {
+    float: right;
+    background-color: #ffffff; 
+    border: none;
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; /* Remove underline from text */
+    font-size: 16px; 
+    margin-right: 50px; 
+    margin-top: 40px;
+    cursor: pointer; /* Mouse cursor as pointer */
+    border-radius: 10px; /* Rounded corners */
+  }
+
